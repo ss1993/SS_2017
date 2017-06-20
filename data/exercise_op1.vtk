@@ -46,10 +46,10 @@ CELL_TYPES 12
 POINT_DATA 10
 SCALARS pdata float 1
 LOOKUP_TABLE default
-5.0 
-1 1 1 1
-1 1 1 1
-5.0 
+4.0 
+1 2 2 1
+1 2 2 1
+4.0 
 
 CELL_DATA 12
 SCALARS cdata int 1
